@@ -1,0 +1,8 @@
+{
+    "version": "4.0.0-X",
+    "env": "Codespaces / Python 3.12.1",
+    "test_output": {
+        "state": "calm",
+        "stress": 0.3
+    }
+}
